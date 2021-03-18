@@ -1,4 +1,4 @@
-package com.github.brajjan79.FilesFinder;
+package com.github.brajjan79.filesfinder;
 
 import static org.junit.Assert.assertEquals;
 
