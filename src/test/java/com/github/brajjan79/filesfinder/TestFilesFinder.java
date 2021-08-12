@@ -8,8 +8,6 @@ import org.junit.Before;
 import org.junit.Test;
 import org.powermock.api.mockito.PowerMockito;
 
-import com.github.brajjan79.filesfinder.FilesFinder;
-
 public class TestFilesFinder {
 
 	private File mock_file;
