@@ -36,6 +36,6 @@ Gradle.
 The source data can be downloaded here:
 <https://github.com/brajjan79/FilesFinder/tags>
 
-#### Maven, Gradle etc
+### Maven, Gradle etc
 
 See Jitpack: <https://jitpack.io/#brajjan79/FilesFinder>
