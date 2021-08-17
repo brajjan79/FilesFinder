@@ -75,10 +75,8 @@ public class FilesFinder {
     private static List<File> findFiles(String regex, File input_file, boolean findAll) {
         final List<File> fileList = new ArrayList<>();
         for (final File listed_files : input_file.listFiles()) {
-            if (RegexFormat.hasMatch(listed_files.getName(), regex)) {
-                if (!listed_files.isDirectory() || findAll) {
-                    fileList.add(input_file);
-                }
+            if (RegexFormat.hasMatch(listed_files.getName(), regex) && (!listed_files.isDirectory() || findAll)) {
+                fileList.add(input_file);
             }
         }
         return fileList;
