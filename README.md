@@ -4,7 +4,7 @@
 [![JitPack](https://jitpack.io/v/brajjan79/FilesFinder.svg)](https://jitpack.io/#brajjan79/FilesFinder)
 
 # FilesFinder
-JAVA plugin to search on local harddisk for a file or files where the name is matching a provided regexp and then 
+JAVA plugin to search on local harddisk for files and directories where the name is matching a provided regexp and then 
 returns a list of the found files.
 
 ## Usage
