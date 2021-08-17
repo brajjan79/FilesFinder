@@ -27,6 +27,16 @@ String searchRegex = "test"
 File[] foundFiles = FilesFinder.find(searchRegex, someBaseDir)
 
 --> '"foundFiles" will contain all files with "test" in the name'
+
+recursive = false;
+File[] foundFiles = FilesFinder.find(searchRegex, someBaseDir, recursive)
+
+--> '"foundFiles" will contain all files with "test" in the name in the provided base directory'
+
+recursive = true;
+File[] foundFiles = FilesFinder.findAll(searchRegex, someBaseDir, recursive)
+
+--> '"foundFiles" will contain all files and directories with "test" in the name in the provided base directory'
 ```
 
 ## Installation
