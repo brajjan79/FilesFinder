@@ -1,6 +1,6 @@
-[![Build Status](https://travis-ci.com/brajjan79/FilesFinder.svg?branch=main)](https://travis-ci.com/brajjan79/FilesFinder)
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/f8a038a363184bd2a112d31111d99452)](https://www.codacy.com/gh/brajjan79/FilesFinder/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=brajjan79/FilesFinder&amp;utm_campaign=Badge_Grade)
-[![Codacy Badge](https://app.codacy.com/project/badge/Coverage/f8a038a363184bd2a112d31111d99452)](https://www.codacy.com/gh/brajjan79/FilesFinder/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=brajjan79/FilesFinder&amp;utm_campaign=Badge_Coverage)
+[![Java CI with Maven](https://github.com/brajjan79/FilesFinder/actions/workflows/maven.yml/badge.svg)](https://github.com/brajjan79/FilesFinder/actions/workflows/maven.yml)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/f8a038a363184bd2a112d31111d99452)](https://app.codacy.com/gh/brajjan79/FilesFinder/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
+[![Codacy Badge](https://app.codacy.com/project/badge/Coverage/f8a038a363184bd2a112d31111d99452)](https://app.codacy.com/gh/brajjan79/FilesFinder/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_coverage)
 [![JitPack](https://jitpack.io/v/brajjan79/FilesFinder.svg)](https://jitpack.io/#brajjan79/FilesFinder)
 
 # FilesFinder
